@@ -1,4 +1,5 @@
-<img width="6912" height="4468" alt="readme" src="https://github.com/user-attachments/assets/ed0e195e-1b6e-455b-b469-f0f58a298eeb" />
+<img width="6912" height="4468" alt="MacBook Pro 16_ - 3" src="https://github.com/user-attachments/assets/cafeb913-60bc-4b24-8fd8-2cbaed10b840" />
+
 
 # Hi, I'm Seirai
 
