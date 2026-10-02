@@ -8,10 +8,11 @@
 
 I'm currently working on two projects:
 
-| Project               | Repository                                                                                  |
-| --------------------- | ------------------------------------------------------------------------------------------- |
-| **Luminalium**        | [SECTL/Luminalium](https://github.com/SECTL/Luminalium)                                     |
-| **Project Carminium** | [Seirai-Haraguchi/Project-Carminium](https://github.com/Seirai-Haraguchi/Project-Carminium) |
+| Project               | Repository                                                                                  | Status               |
+| --------------------- | ------------------------------------------------------------------------------------------- | ---------------------|
+| **Luminalium**        | [SECTL/Luminalium](https://github.com/SECTL/Luminalium)                                     | ACTIVE(2024/7-)      |
+| **Luminalium 2**        | [SECTL/Luminalium-2](https://github.com/SECTL/Luminalium-2)                                     | ACTIVE(2026/8-) |
+| **Project Carminium** | [Seirai-Haraguchi/Project-Carminium](https://github.com/Seirai-Haraguchi/Project-Carminium) | ACTIVE(2025/12-)
 
 ## Developing With
 
