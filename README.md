@@ -1,4 +1,4 @@
-<img width="6912" height="4468" alt="1" src="https://github.com/user-attachments/assets/cafeb913-60bc-4b24-8fd8-2cbaed10b840" />
+<img width="10207" height="5165" alt="Frame 3" src="https://github.com/user-attachments/assets/0fc1c3f2-4194-4af8-b47a-4538ceaa709f" />
 
 
 # Hi, I'm Seirai
